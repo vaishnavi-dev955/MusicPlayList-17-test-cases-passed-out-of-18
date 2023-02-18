@@ -1,0 +1,61 @@
+.Song-image-style {
+  height: 100px;
+  width: 100px;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+  padding-left: 20px;
+}
+
+.description {
+  color: #3b82f6;
+  font-size: 22px;
+  font-family: 'Roboto';
+  padding-left: 20px;
+}
+
+.sub-container1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+  padding-right: 70px;
+}
+
+.delete-button {
+  height: 60px;
+  width: 60px;
+  background-color: transparent;
+  border: 0px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.delete-style {
+  height: 30px;
+  width: 30px;
+  background-color: #152850;
+}
+
+.Time-description {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: 'Roboto';
+  padding-right: 60px;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+}
+
+.over-all-container {
+  display: flex;
+  flex-direction: row;
+  padding-left: 50px;
+}
